@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dfb72246.css",
+    "main.js": "/static/js/main.785435aa.js",
+    "static/js/787.7bed001e.chunk.js": "/static/js/787.7bed001e.chunk.js",
+    "static/media/hero-illustration.svg": "/static/media/hero-illustration.62b0ce7b5c82520b486c58e373df7183.svg",
+    "static/media/gaurav-hero.png": "/static/media/gaurav-hero.aa9cccc7afc645a5a654.png",
+    "static/media/top-website-development-companies.svg": "/static/media/top-website-development-companies.a93611bce26cf9363502ba640b2e6cee.svg",
+    "static/media/Grid-design-logo.svg": "/static/media/Grid-design-logo.d58de6ea3d8346d70ea02ab7cd154d1c.svg",
+    "static/media/partner-with-us.svg": "/static/media/partner-with-us.7d668675558996d7e7e3.svg",
+    "static/media/gptw-logo.png": "/static/media/gptw-logo.6495568d2a57683aca25.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.dfb72246.css.map": "/static/css/main.dfb72246.css.map",
+    "main.785435aa.js.map": "/static/js/main.785435aa.js.map",
+    "787.7bed001e.chunk.js.map": "/static/js/787.7bed001e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfb72246.css",
+    "static/js/main.785435aa.js"
+  ]
+}
